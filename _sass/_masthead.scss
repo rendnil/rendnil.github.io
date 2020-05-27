@@ -10,7 +10,8 @@
 
 .masthead-title {
   margin-bottom: 0;
-
+  border-bottom: 1px solid var(--border-color);
+  padding-bottom: var(--spacer);
   a {
     color: inherit;
     text-decoration: none;
