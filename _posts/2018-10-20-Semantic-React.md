@@ -62,3 +62,29 @@ Example Menu:
 Code:
 
 {% gist e8a00a0d8534c7d40051d6be52c9cba1 Menu.jsx %}
+
+### Forms
+
+As a last example of Semantic styling, the Form element can be employed across your application to quickly create clean user-friendly fields. Although it is not depicted in the following example, forms can easily be configured to respond to user events.
+
+Import it in your file:
+
+```javascript
+import {Button, Form, Segment} from "semantic-ui-react"
+```
+
+Example Form:
+
+![semantic3](/assets/images/semantic3.png)
+
+Code:
+
+{% gist e7c74db458fb9f995557fee67e379e34 Form.jsx %}
+
+I have demonstrated a few practical examples of Semantic UI React styling, but I urge anyone interested in learning the nuances of the toolkit to peruse the official documentation.
+
+---
+
+## Sources
+
+[Semantic UI React — Documentation](https://react.semantic-ui.com/)
