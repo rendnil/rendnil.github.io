@@ -86,5 +86,4 @@ I have demonstrated a few practical examples of Semantic UI React styling, but I
 ---
 
 ## Sources
-
-[Semantic UI React — Documentation](https://react.semantic-ui.com/)
+<a href="https://react.semantic-ui.com/" target="_blank">Semantic UI React — Documentation</a>

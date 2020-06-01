@@ -54,8 +54,8 @@ In this post, I have demonstrated two uncomplicated examples of Chart.js impleme
 
 ---
 ## REFERENCES
-[Additional Examples](http://jerairrest.github.io/react-chartjs-2/)
+<a href="http://jerairrest.github.io/react-chartjs-2/" target="_blank">Additional Examples</a>
 
-[Official Documentation](https://www.chartjs.org/docs/latest/)
+<a href="https://www.chartjs.org/docs/latest/" target="_blank">Official Documentation</a>
 
-[NPM](https://www.npmjs.com/package/react-chartjs-2)
+<a href="https://www.npmjs.com/package/react-chartjs-2" target="_blank">NPM</a>

@@ -20,13 +20,13 @@ Typically, JavaScript users will use the then() method to extract information fr
 
 ![fetch2](/assets/images/fetch2.png)
 
-Now, appended to the initial fetch() request, I chained two then() methods (note that my callback functions use arrow function syntax — consult the [documentation](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions) if you are unacquainted with this). First, I utilized the json() method to parse the data as JSON. Next, I simply printed the extracted data to the console. In the second then() method, the data received from the API request can be easily transformed with vanilla JavaScript and can be used, for example, to add the retrieved information to a data store.
+Now, appended to the initial fetch() request, I chained two then() methods (note that my callback functions use arrow function syntax — consult the <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions" target="_blank">documentation</a> if you are unacquainted with this). First, I utilized the json() method to parse the data as JSON. Next, I simply printed the extracted data to the console. In the second then() method, the data received from the API request can be easily transformed with vanilla JavaScript and can be used, for example, to add the retrieved information to a data store.
 
 ![fetch3](/assets/images/fetch3.png)
 
 At this point, I have covered the basics of using the fetch() method to make a simple GET request to an API. I recommend that readers use my code as a template to attempt their own requests and explore the MDN documentation on the fetch() method.
 
 ## Sources
-[TVmaze API](https://www.tvmaze.com/api)
+<a href="https://www.tvmaze.com/api" target="_blank">TVmaze API</a>
 
-[MDN Documentation](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch)
+<a href="https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch" target="_blank">MDN Documentation</a>

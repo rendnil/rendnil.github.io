@@ -83,6 +83,4 @@ Instead of monitoring the radioactive decay of some element within the controlle
 ## Sources
 Taleb, Nassim Nicholas. FOOLED BY RANDOMNESS. RANDOM HOUSE, INC, 2008.
 
-https://ruby-doc.org/core-2.5.1/Kernel.html#method-i-rand
-
-https://ruby-doc.org/core-2.2.0/Random.html
+<a href="https://ruby-doc.org/core-2.5.1/Kernel.html#method-i-rand" target="_blank">Ruby Documentation</a>
