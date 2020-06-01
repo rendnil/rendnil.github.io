@@ -1,9 +1,9 @@
 # Setup
 title: Andrew Lindner
 tagline:
-url: http://localhost:4000/
+url: ''
 paginate: 1
-baseurl: ""
+baseurl: ''
 permalink: pretty
 
 # Gems
