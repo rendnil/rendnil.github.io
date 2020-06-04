@@ -20,14 +20,25 @@
       </main>
 
       <footer class="footer">
+        <a href="mailto:{{ site.author.email }}"><i class= "fas fa-envelope" style='font-size: 2em; margin-right: 0.25em'></i></a>
+
+
+        <a href="https://www.linkedin.com/in/alindner" target="_blank"><i class= "fab fa-linkedin" style='font-size: 2em; margin-right: 0.25em'></i></a>
+        <a href="https://github.com/rendnil" target="_blank"><i class="fab fa-github" style='font-size: 2em'></i></a>
+
+      </br>
         <small>
           Copyright &copy; <time datetime="{{ site.time | date_to_xmlschema }}">{{ site.time | date: '%Y' }}</time>
-          Andrew Lindner. All rights reserved.
+          {{site.author.name}}. All rights reserved.
         </small>
       </br>
         <small>
           Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a>
           and the <a href="https://getpoole.com/" target="_blank">Poole</a> theme.
+        </small>
+      </br>
+        <small>
+          <a href="mailto:{{ site.author.email }}"><i class="svg-icon email"></i></a>
         </small>
       </footer>
     </div>

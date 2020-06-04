@@ -11,6 +11,7 @@ plugins:
   - jekyll-gist
   - jekyll-paginate
   - jekyll-seo-tag
+  - jekyll-sitemap
 
 # Optimize Jekyll
 exclude:
@@ -33,9 +34,9 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: Andrew
+  name: Andrew Lindner
   url: ''
-  email: andrew@gmail.com
+  email: andrew.lindner.blog@gmail.com
 
 # Custom vars
 version: 3.0.0
