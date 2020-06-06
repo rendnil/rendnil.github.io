@@ -26,7 +26,7 @@ title: Reading
  - The Sun Also Rises - Ernest Hemingway
  - A Gentleman in Moscow - Amor Towles
  - The Spy Who Came in From the Cold - John le Carré
- - The Kingkiller Chronicles- Patrick Rothfuss
+ - The Kingkiller Chronicles - Patrick Rothfuss
  - The Godfather - Mario Puzo
  - Norwegian Wood - Haruki Murakami
  - Stranger in a Strange Land - Robert Heinlein
