@@ -17,6 +17,6 @@ title: Archive
 {% assign sorted_posts = site.posts | sort: 'date' | reverse %}
 <ul>
 {% for post in sorted_posts %}
-    <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+    <li style="font-size:1.25em"><a href="{{ post.url }}">{{ post.title }}</a></li>
 {% endfor %}
 </ul>
