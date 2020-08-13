@@ -8,7 +8,7 @@ In "The Gypsy and the Hobo," (Season 3, Episode 11) Roger Sterling reconnects wi
 
 Admittedly, the first few times I viewed the episode, I did not think much of this digression. For those unfamiliar with *Mad Men*, Roger Sterling is a libertine advertising executive who inherited his position from his father. He often persuades Don Draper (the protagonist of *Mad Men*) to join him for evenings of excessive consumption and trips to underground casinos. When Annabelle Mathis mentions Sterling's activities in Paris, her description fits his overall character profile and most viewers (including me) most likely miss the allusion to Hemingway. Vigilant devotees of both *Mad Men* and Hemingway will draw the connection, however, when they combine Mathis's statements about Roger's boxing and acting like a "character in someone else's novel."
 
-Possibly my favorite work of fiction, *The Sun Also Rises* is a quintessential Hemingway novel. The story follows Jake Barnes on a booze fueled tour Paris, Bayonne, and Pamplona, and in typical Hemingway fashion, the tale is replete with love triangles and gory bull fights.
+Possibly my favorite work of fiction, *The Sun Also Rises* is a quintessential Hemingway novel. The story follows Jake Barnes on a booze fueled tour of Paris, Bayonne, and Pamplona, and in typical Hemingway fashion, the tale is replete with love triangles and gory bull fights.
 
 ![hemingway in pamplona](/assets/images/HemingwayLoeb.png)
 *Hemingway and the Pamplona Retinue*
