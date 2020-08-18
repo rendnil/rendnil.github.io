@@ -1,9 +1,7 @@
 ---
 layout: page
-title: Reading
+title: Book Recommendations
 ---
----
-## Book Recommendations
 *(listed in no particular order)*
 
 ### Nonfiction

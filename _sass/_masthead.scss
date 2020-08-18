@@ -5,7 +5,7 @@
 .masthead {
   padding-top: var(--spacer);
   padding-bottom: var(--spacer);
-  margin-bottom: var(--spacer-3);
+  margin-bottom: var(--spacer-2);
 }
 
 .masthead-title {
@@ -13,11 +13,12 @@
   border-bottom: 1px solid var(--border-color);
   padding-bottom: var(--spacer);
   a {
-    color: inherit;
+    color: var(--heading-color);
     text-decoration: none;
   }
 
   small {
     font-weight: 400;
+    color: var(--heading-color);
   }
 }

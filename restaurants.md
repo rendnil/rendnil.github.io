@@ -1,6 +1,6 @@
 ---
 layout: page
-title: NYC Restaurants
+title: NYC Restaurant List
 ---
 <br/>
 <iframe src="https://www.google.com/maps/d/embed?mid=1K8NS1yfCfDFwpENGEdiBH5K2x2o-ZfPx" width="680" height="600"></iframe>

@@ -15,8 +15,8 @@ title: Archive
 {% endfor %} -->
 
 {% assign sorted_posts = site.posts | sort: 'date' | reverse %}
-<ul>
+<ul style="list-style: none; padding-left:0">
 {% for post in sorted_posts %}
-    <li style="font-size:1.25em"><a href="{{ post.url }}">{{ post.title }}</a></li>
+    <li class="archive-bullet"> -- <a href="{{ post.url }}">{{ post.title }}</a></li>
 {% endfor %}
 </ul>
