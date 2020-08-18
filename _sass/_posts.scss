@@ -12,10 +12,32 @@
   }
 }
 
+.paginated-post {
+  border-bottom: 2px dashed var(--gray-600);
+  padding-bottom: 2em;
+  margin-bottom: 2em;
+
+  li + li {
+    margin-top: .25rem;
+  }
+}
+
 // Blog post or page title
 .page-title,
 .post-title {
   color: var(--heading-color);
+}
+.titlepaginated {
+  color: var(--dark-navy);
+}
+.titlepaginated a {
+  color: inherit;
+  text-decoration: none;
+
+  &:hover,
+  &:focus {
+    text-decoration: underline;
+  }
 }
 .page-title,
 .post-title {

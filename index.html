@@ -5,8 +5,8 @@ title: Home
 
 <div class="posts">
   {% for post in paginator.posts %}
-  <article class="post">
-    <h1 class="post-title">
+  <article class="paginated-post">
+    <h1 class="titlepaginated">
       <a href="{{ post.url | relative_url }}">
         {{ post.title }}
       </a>
@@ -14,7 +14,7 @@ title: Home
 
     <time datetime="{{ post.date | date_to_xmlschema }}" class="post-date">{{ post.date | date_to_string }}</time>
 
-    {{ post.content }}
+    {{ post.content | truncatewords: 50 }}
   </article>
   {% endfor %}
 </div>
