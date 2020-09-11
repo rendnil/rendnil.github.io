@@ -48,7 +48,7 @@ The above question posed by the researchers is an interesting way to measure fin
 <br/>
 <br/>
 By far, the top two financial stressors for millennials involve saving, both in general and for retirement. This is an easy space for FinTech to upgrade the financial habits of their customers. Modern tools can create customized savings plans for millennials to help them forecast how much money they will have in retirement. On the investing front, FinTech can use advances in machine learning to allow millennials to build a cost-effective passive portfolio. One surprising result from this question is that student loans ranks on the bottom of the list for stressors. Considering that this generation is overloaded with education debt, I would have expected this to rank higher.
-
-
+<br/>
+<br/>
 ## SOURCES
 https://about.bankofamerica.com/assets/pdf/2020-bmh-millennial-report.pdf
