@@ -25,10 +25,10 @@
 // Blog post or page title
 .page-title,
 .post-title {
-  color: var(--dark-navy);
+  color: var(--custom-header-color);
 }
 .titlepaginated {
-  color: var(--dark-navy);
+  color: var(--custom-header-color);
 }
 .titlepaginated a {
   color: inherit;
@@ -91,7 +91,7 @@
 .archive-bullet a{
   padding-left: 0;
   font-size: 1.25em;
-  color: var(--gray-800);
+  color: var(--archive-bullet-color);
   text-decoration: none;
 
   &:hover,

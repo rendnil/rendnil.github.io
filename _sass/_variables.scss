@@ -48,6 +48,9 @@
   --spacer: 1rem;
   --spacer-2: calc(var(--spacer) * 1.5);
   --spacer-3: calc(var(--spacer) * 3);
+
+  --custom-header-color: var(--dark-navy);
+
 }
 
 @media (prefers-color-scheme: dark) {
@@ -63,5 +66,8 @@
     --border-color: rgba(255,255,255,.15);
 
     --code-bg: var(--gray-900);
+
+    --custom-header-color: var(--green);
+    --archive-bullet-color: #fff;
   }
 }
