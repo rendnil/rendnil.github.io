@@ -31,7 +31,7 @@ The Rails documentation actually cautions against such cases:
 Please note *this method is not atomic*, it runs first a SELECT, and if there are no results an INSERT is attempted. If there are other threads or processes there is a race condition between both calls and it could be the case that you end up with two similar records.
 >
 
-So, for example, let's say you have 2 instances of a service running and both use the Repeatable read isolation level. If both services attempt to insert the record at the same time, they will not find an existing record in the database and will actually insert duplicate copies.
+So, for example, let's say you have 2 instances of a service running and both use the repeatable read isolation level. If both services attempt to insert the record at the same time, they will not find an existing record in the database and will actually insert duplicate copies.
 
 ## Solution
 
