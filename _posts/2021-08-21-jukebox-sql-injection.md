@@ -10,7 +10,9 @@ In a conspiratorial fashion, we headed over to the corner of the bar which house
 
 ## SQL Injections
 
-For the uninitiated, a SQL injection commonly occurs when someone writes SQL statements into an entry field in order to extract information. For example, let's say you are shopping on Nike's website for a new pair of running shoes. When you reach the checkout page, instead of entering your name into the appropriate form field, you type in the following statement:
+For the uninitiated, a SQL injection commonly occurs when someone writes SQL statements into an entry field in order to extract information. For example, let's say you are shopping on Nike's website for a new pair of running shoes. When you reach the checkout page, instead of entering your name into the appropriate form field, you type in the following text: "`something_wrong OR 1 = 1`"
+
+This will execute the below SQL query on the backend:
 
 ```sql
 SELECT * FROM Users
