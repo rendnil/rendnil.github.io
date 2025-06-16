@@ -33,3 +33,4 @@ title: Book Recommendations
  - Dune - Frank Herbert
  - Foundation - Isaac Asimov
  - Sirens of Titan - Kurt Vonnegut
+ - A Confederacy of Dunces - John Kennedy Toole
