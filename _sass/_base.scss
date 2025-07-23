@@ -68,3 +68,21 @@ mark {
   background-color: var(--yellow-100);
   border-radius: .125rem;
 }
+
+.blue-quote {
+  background-color: #f0f9ff; /* lighter blue */
+  padding: 1em;
+  margin: 1em 0;
+  border-left: none;
+  border-radius: 4px;
+  color: #333;
+}
+
+.framed-img {
+  border: 2px solid #000;        /* black border */
+  padding: 4px;                  /* optional space inside the border */
+  background-color: #fff;        /* optional white background */
+  border-radius: 4px;            /* rounded corners (optional) */
+  display: inline-block;         /* so the box wraps the image only */
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1); /* soft shadow */
+}
